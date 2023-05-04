@@ -1,4 +1,4 @@
-h1 { font-family:'Times New Roman', Times, serif;
+h1, h2 { font-family:'Times New Roman', Times, serif;
     color: #ce84ad;
 
     }
@@ -10,10 +10,6 @@ h1 { font-family:'Times New Roman', Times, serif;
     font-family: Arial, Helvetica, sans-serif;
     line-height: 20px;
   }
-    
-
-    h2 {font-family: 'Times New Roman', Times, serif;
-    color: #ce84ad;}
 
     ul {color:#ac9fbb;
       font-style: italic;
