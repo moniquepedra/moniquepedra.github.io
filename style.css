@@ -1,0 +1,24 @@
+h1 { font-family:fantasy;
+    color: #ce84ad;
+
+    }
+    body {
+      background-color: #f7ebec;
+    }
+
+    p {color:#ac9fbb;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+  }
+    
+
+    h2 {font-family: fantasy;
+    color: #ce84ad;
+  font-style: italic;}
+
+    ul {color:#ac9fbb;
+      font-style: italic;
+      line-height: 20px;
+      font-weight: bold;
+    
+    }
