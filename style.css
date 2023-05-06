@@ -2,6 +2,10 @@ h1, h2 { font-family:'Times New Roman', Times, serif;
     color: #ce84ad;
 
     }
+    h1 { text-align: center;
+    
+    }
+
     body {
       background-color: #f7ebec;
     }
@@ -17,3 +21,24 @@ h1, h2 { font-family:'Times New Roman', Times, serif;
       font-weight: bold;
     
     }
+
+    ul li:nth-child(odd) {
+      background-color: #dbafc1;}
+
+
+    #perfil {
+      float: left;
+      padding: 10px;
+      margin-right: 10px;
+      background-color: #dbafc1;
+      
+    
+    }
+
+    .imagem-texto {
+      height: 270px;
+      margin-top: 50px;
+    
+      
+    }
+
